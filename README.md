@@ -68,7 +68,7 @@ A web application for food enthusiasts to browse, share, and interact around a c
 4. **Admin Access:**  
    Login with the following credentials to manage recipes and view customer feedback:  
    - **Name:** youss 
-   - **Email:** youssoufemansour@gmail.com 
+   - **Email:**admin@iut-dhaka.edu
    - **Password:** 12345  
 
 ---
