@@ -1,5 +1,4 @@
-# **FOOD RECIPE WEB APPLICATION**
-
+# **FOOD RECIPE WEB APP
 ## **Overview**  
 A web application for food enthusiasts to browse, share, and interact around a collection of recipes. This project enables both customers and administrators to manage and access recipes through a user-friendly interface.
 
